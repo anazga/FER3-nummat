@@ -1,0 +1,7 @@
+imageio
+imageio-ffmpeg
+matplotlib==2.0.2
+numpy==1.21.1
+pandas==0.20.3
+urllib3==1.26.5
+scipy==1.7.1
